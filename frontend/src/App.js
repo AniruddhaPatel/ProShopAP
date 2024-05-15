@@ -2,10 +2,10 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      <h1>100 hr</h1>
-    </div>
-  )
-}
+    <>
+      <h1>Welcome To ProShop</h1>
+    </>
+  );
+};
 
-export default App
+export default App;
